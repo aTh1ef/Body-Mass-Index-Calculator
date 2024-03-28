@@ -75,3 +75,16 @@ To run this web application in Visual Studio Code, follow these steps:
 ## Map Design:
 
 For tips and guidelines on designing maps with MapTiler, you can refer to the [MapTiler Documentation](https://documentation.maptiler.com/hc/en-us/sections/16167545968145-Map-design).
+
+## Preview
+
+Here are some screenshots of our web application:
+![Screenshot 1](https://github.com/aTh1ef/Body-Mass-Index-Calculator/assets/112499626/90ab43d3-2f2c-4a95-82b8-1b091d06dc22)
+*Description: This screenshot shows the BMI calculator interface.*
+
+![Screenshot 2]![image](https://github.com/aTh1ef/Body-Mass-Index-Calculator/assets/112499626/27e9564f-c169-4464-b8c3-e3a18747ce9e)
+*Description: This screenshot displays the map functionality, highlighting diabetes centers and dietitians in Mangalore.*
+
+![Screenshot 3]![image](https://github.com/aTh1ef/Body-Mass-Index-Calculator/assets/112499626/d3efe716-c260-4214-855d-19e78bee9a8c)
+*Description: This screenshot demonstrates a marker popup on the map, providing detailed information about the health centers.*
+
