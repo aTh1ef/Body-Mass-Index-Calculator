@@ -86,5 +86,5 @@ Here are some screenshots of our web application:
 *Description: This screenshot displays the map functionality, highlighting diabetes centers and dietitians in Mangalore.*
 
 ![Screenshot 3]![image](https://github.com/aTh1ef/Body-Mass-Index-Calculator/assets/112499626/d3efe716-c260-4214-855d-19e78bee9a8c)
-*Description: This screenshot demonstrates a marker popup on the map, providing detailed information about the health centers.*
+*Description: This screenshot demonstrates a marker popup on the map, providing detailed information about the health center.*
 
